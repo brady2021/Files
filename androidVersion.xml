@@ -3,10 +3,10 @@
     <channel>
         <title>GeniLife</title>
         <item>
-            <title>Version 1.5.0</title>
-            <description>Add new features and fixed bugs such as crashes and missing text on some pages.</description>
-            <pubDate>Monday, 1 July 2024 09:37:01 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.hdm.android" sparkle:version="1.5.0" sparkle:os="android"/>
+            <title>Version 1.6.0</title>
+            <description>Add new features and fixed bugs.</description>
+            <pubDate>Thursday, 22 Aug 2024 09:37:01 +0000</pubDate>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.hdm.android" sparkle:version="1.6.0" sparkle:os="android"/>
         </item>
     </channel>
 </rss>
