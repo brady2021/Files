@@ -3,10 +3,10 @@
     <channel>
         <title>GeniLife</title>
         <item>
-            <title>Version 2.2.0</title>
+            <title>Version 2.5.0</title>
             <description>Add new features and fixed bugs.</description>
-            <pubDate>Monday, 17 Mar 2025 09:37:01 +0000</pubDate>
-            <enclosure url="https://apps.apple.com/us/app/genilife/id6462992466" sparkle:version="2.2.0" sparkle:os="ios"/>
+            <pubDate>Monday, 23 June 2025 09:37:01 +0000</pubDate>
+            <enclosure url="https://apps.apple.com/us/app/genilife/id6462992466" sparkle:version="2.5.0" sparkle:os="ios"/>
         </item>
     </channel>
 </rss>
